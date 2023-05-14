@@ -8,6 +8,48 @@
       "type": "java",
       "name": "Exer05",
       "request": "launch",
+      "mainClass": "lista_exercicio_lacoRepeticao.Exer05",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
+      "name": "Exer04",
+      "request": "launch",
+      "mainClass": "lista_exercicio_lacoRepeticao.Exer04",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
+      "name": "Exer03",
+      "request": "launch",
+      "mainClass": "lista_exercicio_lacoRepeticao.Exer03",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
+      "name": "Exer02",
+      "request": "launch",
+      "mainClass": "lista_exercicio_lacoRepeticao.Exer02",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
+      "name": "Exer01",
+      "request": "launch",
+      "mainClass": "lista_exercicio_lacoRepeticao.Exer01",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
+      "name": "Exer06",
+      "request": "launch",
+      "mainClass": "lista_exercicio_sequecial.Exer06",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
+      "name": "Exer05",
+      "request": "launch",
       "mainClass": "lista_exercicio_sequecial.Exer05",
       "projectName": "Exec_38_647cd157"
     },

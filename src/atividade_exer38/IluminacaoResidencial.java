@@ -1,4 +1,4 @@
-package atividade;
+package atividade_exer38;
 
 import java.util.Scanner;
 
