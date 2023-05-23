@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exer73_2023125073",
+      "request": "launch",
+      "mainClass": "aps_logica_programacao.Exer73_2023125073",
+      "projectName": "Exec_38_647cd157"
+    },
+    {
+      "type": "java",
       "name": "Exer05",
       "request": "launch",
       "mainClass": "lista_exercicio_lacoRepeticao.Exer05",
